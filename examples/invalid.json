@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0",
+  "document_id": "synthetic-invalid-001",
+  "measurements": [
+    {"id": "sample-width", "value": -1, "unit": "unknown"},
+    {"id": "sample-width", "value": true, "unit": "mm"}
+  ]
+}

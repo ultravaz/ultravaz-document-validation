@@ -1,0 +1,8 @@
+{
+  "schema_version": "1.0",
+  "document_id": "synthetic-demo-001",
+  "measurements": [
+    {"id": "sample-width", "value": 12.5, "unit": "mm"},
+    {"id": "sample-volume", "value": 3.2, "unit": "mL"}
+  ]
+}
